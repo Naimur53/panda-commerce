@@ -4,6 +4,10 @@ body{
 
 .container{
     margin-bottom: 100px;
+    padding:0 100px;
+    margin-left:auto ;
+    margin-right: auto;
+    overflow: hidden;
 } 
 .carousel{
     background-color:#fceae8;
@@ -26,6 +30,9 @@ body{
     padding:10px 30px;
     border-radius: 10px; 
 }
+.catagori img{ 
+   width: 100px;
+}
 .catagori-1{
     background: orange; 
 }
@@ -34,4 +41,8 @@ body{
 }
 .catagori-3{
     background: blue; 
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
 }
