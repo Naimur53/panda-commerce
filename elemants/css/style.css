@@ -55,3 +55,10 @@ body{
     padding: 1.25rem ;
     
 }
+.subscribe{ 
+    background-color: #fceae8;
+    height: 300px;
+}
+.subscribe h6{ 
+  color:gray;
+}
