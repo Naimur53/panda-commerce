@@ -46,3 +46,12 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgrey;
 }
+.card-footer {
+    padding: .5rem 1rem;
+    background-color: inherit;
+    border-top: none;
+}
+.card-body { 
+    padding: 1.25rem ;
+    
+}
