@@ -4,6 +4,7 @@ body{
 
 .container{
     margin-bottom: 100px; 
+    overflow: hidden;
 } 
 .carousel{
     background-color:#fceae8;
